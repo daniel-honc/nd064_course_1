@@ -4,7 +4,7 @@ description: Install Nginx deployment manifests
 keywords:
 - nginx
 version: 1.0.0
-mainainers:
+maintainers:
 - name: DHonc
   email: d_honc@yaoo.com
 
