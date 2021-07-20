@@ -1,0 +1,10 @@
+apiVersion: v1
+name: nginx-deployment
+description: Install Nginx deployment manifests
+keywords:
+- nginx
+version: 1.0.0
+mainainers:
+- name: DHonc
+  email: d_honc@yaoo.com
+
